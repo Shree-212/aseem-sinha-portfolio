@@ -55,7 +55,7 @@ export default function Hero() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.7 }}
           >
-            Examining how technology and institutions shape
+            Examining why technology and institutions shape
             <br />
             the organization of economic activity
           </motion.p>
