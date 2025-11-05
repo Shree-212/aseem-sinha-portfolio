@@ -1,0 +1,120 @@
+﻿ASEEM SINHA
+Email: contact@aseemsinha.com  |  LinkedIn: in/aseemsinha  |  Phone: +91-9910854466
+BIO
+I study how technology and institutions shape the organization of economic activity across diverse contexts. My work draws on Economic Sociology, History, and Computer Science to examine how technological disruptions unfold unevenly across institutional environments.
+My published research shows how the same technology embeds differently within institutional settings, generating distinct patterns of organizing—which, in turn, shape business models, competitive dynamics, and the effectiveness of policy interventions.
+Before entering academia, I worked across engineering technology, healthcare, and consumer finance. This experience informs both my advisory work with startups and educational institutions, and my engagement with emerging researchers, entrepreneurs, and professionals seeking to build meaningful careers.
+I completed my Ph.D. in Strategy at the University of Michigan, MBA at IIM Calcutta, and my B.S. in Electrical Engineering at St. Mary’s University. Please feel free to reach out at contact@aseemsinha.com
+EDUCATION
+University of Michigan, Ross School of Business
+Ph.D. in Business Administration (Strategy), August 2024
+Thesis: A comparative and configurational framework for organizing and organizations
+Committee: Gerald Davis (Co-chair), Brian Wu (Co-chair), Mark Mizruchi, Cheng Gao
+Indian Institute of Management Calcutta
+Post-graduate Diploma in Computer-aided Management (MBA), April 2011
+Thesis: Information flow and value linkages at Spencer’s Retail
+Advisor: Priya Seetharaman
+St. Mary’s University, San Antonio
+Bachelor of Science in Electrical Engineering, December 2007
+Capstone: Three-dimensional object-path rendering using radio frequency communication
+________________
+
+
+RESEARCH
+Summary
+I study the interplay of technology and society using a multidisciplinary approach that draws on Computer Science, Economic Sociology, and History. My research examines how information and communication technologies (ICTs) plug into the institutional landscape, changing how economic agents access and recruit key resources. 
+Institutions and technologies are mutually constitutive—the soils and seasons that bring forth, sustain, and, in time, undo different organizational forms. They flow into and through each other in continuous feedback loops. The same technology produces different forms across distinct institutional configurations; equally, local institutions accommodate distinct technologies in different ways. Consequently, the resulting ICT-enabled disruption, while seeming ubiquitous, is not uniform. It varies in observable patterns, creating and destroying business models rooted in regions, countries, and ecosystems.
+My published work uses configurational theory and methods to identify organizing patterns in factor markets—how smartphones and stock-exchanges produced clear varieties in labour and capital markets respectively. In ongoing work, I extend this configurational lens to AI and ML adoption.
+Areas
+Entrepreneurship, Organization Theory, Strategy, Technology and Society
+Methods
+Case Studies, Computational Models and Methods, Qualitative Comparative Analysis
+Publications
+Davis, G. F. and Sinha, A. 2021. “Varieties of Uberization: How technology and institutions change the organization(s) of late capitalism.” Organization Theory, 2(1).
+Work in Progress
+* “Varieties of Financialization: How stock exchanges metricized capital markets in the neoliberal decades.” With Gerald Davis. Status: Working paper. 
+* “Varieties of Disintermediation: Artificial intelligence, control, and coordination in the multipolar era.” Status: model development.
+SCHOLARLY ENGAGEMENT
+Seminar Presentations
+Strategy Department Seminars, Ross School of Business, University of Michigan:
+* “A communication-based view of organizing: How technology and institutions affect organizing and organizations across national contexts”, January 2020
+* “Social Structures and Industry Boundaries”, November 2017
+* “Divided we stand? An experiment on elite cohesiveness, power, and performance”, May 2017
+* “Changing Mental Representations: Linking strategy education to firm performance”, March 2016
+Conferences & Workshops
+* Invited participant and discussant, “Globalizing Organization Theory: Conference and Paper Development Workshop”, Moore School of Business, University of South Carolina, January 2020
+* Organizing team member and charette facilitator, “The Choice II: Market, Organization, Democracy, Algorithm or Community?”, Ross School of Business, University of Michigan, December 2019
+Methods Training
+* Interviewing for Qualitative Research – with Ashley Mears, Boston College, June 2019
+* Fuzzy Set Qualitative Comparative Analysis – with C. Ragin & P. Fiss, University of California, Irvine, March 2019
+* Advanced Qualitative Analysis – with Rhonda Reger, Boston College, June 2018
+* Qualitative Methods/Ethnography – with Michael Pratt, Boston College, June 2018
+Peer Review
+* Reviewer, Strategic Entrepreneurship Journal, 2019-20
+TEACHING & MENTORSHIP
+Interests
+Competitive Strategy, Corporate Strategy, Economic Sociology, Entrepreneurship, Global Institutional Environment, Privacy and Technology Policy, Technology and Society
+Experience as Primary Instructor
+Strategy Department, Ross School of Business
+Taught Corporate Strategy (BBA core, 77-79 students) in Fall 2017 and Fall 2018. Developed course curriculum, syllabi, and interactive case discussions. Managed teaching assistants and created novel assessment exercises. Teaching evaluations: 4.2/5.0 (dept. average 4.4, 2017) and 4.6/5.0 (dept. average 4.5, 2018).
+Experience as Teaching Assistant
+Various Departments, Ross School of Business
+Graded and provided detailed feedback on essays, case analyses, and project reports across multiple courses: Leading People and Organizations (MBA), Marketing Management (MBA and summer program), and Strategic Marketing Planning (Executive MBA). For each course, I designed grading rubrics and developed Visual Basic scripts to computationally analyse submitted text, enabling efficient and consistent evaluation.
+Mentorship
+Mentored students and peers across academic levels on research, career navigation, and professional development. Mentees have secured doctoral placements at top research institutions, won prestigious entrepreneurship research grants, pursued successful careers at leading firms, and founded successful ventures.
+PROFESSIONAL EXPERIENCE
+Consulting & Advisory (India and USA)
+Recent and Ongoing Consulting Engagements, 2023 onwards
+* Dev Poojan – devotional marketplace from inception to scale
+* Linc Education – executive education program for a multinational university
+* Builders + Backers – ecosystem research for AI-powered venture studio
+* Venex – IP strategy and academic partnerships
+* Impact Studio, Ross – design thinking curriculum and venture program support
+Home Credit, Gurgaon
+Senior Manager, Strategy, 2013-2015
+* Developed market entry strategy approved by Czech stakeholders; pilot launches in Punjab and Maharashtra improved city launch timeline by 40% and quarterly penetration by 110%, validating approach and securing USD 100M investment for 4-year expansion
+* Led Pune launch as proof-of-concept for scalable operations: designed facility acquisition model, developed Android app for point-of-sale mapping, and documented repeatable rollout process; model adopted for Indonesia expansion
+* Hired, developed, and managed cross-functional teams (up to 30 direct reports) across analytics, human resources, operations, project management, sales, and training verticals
+Johnson & Johnson Medical, Mumbai
+Regional Head North and East India, Acclarent (subdivision), 2011-2013
+* Managed P&L for North and East India; led team across 9 states covering government, defence, and private hospitals (AIIMS, Fortis, Max); introduced new ENT surgical product line
+* Pioneered proactive reimbursement strategy for medical devices; achieved 90% reimbursement from private and PSU insurance firms, significantly improving partner hospital profitability
+* Set up nationwide distribution network (10 states) and developed pricing, packaging, and supply chain strategy for 35-product portfolio
+National Instruments, Austin
+Programmer Analyst, 2007-2009
+* Worked as IT liaison and business analyst across Engineering and Research divisions, leading global initiatives including process redesign, quality assurance, and custom systems development
+* Led distributed teams (USA, Hungary, China, Germany) on major projects: redesigned IT service tracking (30% improvement), tested company’s largest software release (team award), and developed custom-sales system for 41 countries
+REFERENCES
+Gerald F. Davis
+Professor of Management & Organizations
+Stephen M. Ross School of Business
+University of Michigan
+Email: gfdavis@umich.edu
+
+
+	Cheng Gao
+Assistant Professor of Strategy
+Stephen M. Ross School of Business
+University of Michigan
+Email: chenggao@umich.edu
+
+
+	Mark Mizruchi
+Professor of Sociology
+College of Literature, Science and the Arts
+University of Michigan
+Email: mizruchi@umich.edu
+
+
+	Priya Seetharaman
+Professor of Management Information Systems
+Indian Institute of Management Calcutta
+Email: priyas@iimcal.ac.in
+
+
+	Brian Wu
+Professor of Strategy
+Stephen M. Ross School of Business
+University of Michigan
+Email: wux@umich.edu
+
